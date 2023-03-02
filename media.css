@@ -1,0 +1,5 @@
+@media (max-width:1027px) {
+    header{
+        max-width:calc(100% / 4) ;
+    }
+}
